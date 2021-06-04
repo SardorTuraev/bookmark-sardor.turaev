@@ -170,6 +170,7 @@ img {
     background-repeat: no-repeat;
     background-size: 1000px 352px;
     background-position: left calc(50% + 710px) top calc(240px);
+    padding-bottom:72px;
 }
 
 .section-managaer__contents {
